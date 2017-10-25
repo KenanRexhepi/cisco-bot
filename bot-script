@@ -1,0 +1,11 @@
+<context>
+  <input pattern="(hello|hi) *">
+      <output value="Hello $UserName!" if="full($UserName)"/>
+      
+            <input pattern="(Sharepoint)">        
+                <output value="https://myprofile.bt.com/sites/Cisco-T2R/SitePages/Home.aspx"/>     
+            </input>   
+           
+</context>  
+</input>
+</context>
